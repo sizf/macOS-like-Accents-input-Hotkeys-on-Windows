@@ -1,7 +1,7 @@
 ﻿SendMode Input
 
 grave := { "diacritical" : "{U+0060}" ; `
-         , "lowercase_a" : "à"
+         , "lowercase_a" : "à" ; this is a test commentg
          , "lowercase_e" : "è"
          , "lowercase_i" : "ì"
          , "lowercase_o" : "ò"
